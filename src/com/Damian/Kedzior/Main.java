@@ -44,6 +44,7 @@ public class Main {
             }
             i++;
         }
+        //walka na spokojnie
         //array[k] = array[k-1];
         int[] holder = new int[k - 1];
         int[] upperHolder = new int[array.length - k];
